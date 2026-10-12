@@ -1,2 +1,2 @@
-# Phone-faind-goide
-Phone faind goidens 
+# Phone-faind-guide
+Phone faind guidens 
